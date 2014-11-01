@@ -17,4 +17,4 @@ If you'll like to contribute to a project  all you need to do is fork the reposi
 - [Explains git overflow](https://guides.github.com/introduction/flow/index.html)
 
 ##Your First Task:
-
+After setting up your git account, write your name and a short message if you like in the signature.md file!

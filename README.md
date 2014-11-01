@@ -15,7 +15,6 @@ If you'll like to contribute to a project  all you need to do is fork the reposi
 - [interactive tool to learn git](https://try.github.io)
 - [check out the GitHub Webcasts on Youtube](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [Explains git overflow](https://guides.github.com/introduction/flow/index.html)
-- 
 
-#Your First Task:
+##Your First Task:
 

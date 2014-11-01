@@ -17,12 +17,22 @@ Git is an open source distributed version control system (DVCS) that can signifi
 - After setting up your git account, write your name and a short message if you like in the signature.md file!
 - All you need to do is fork the repository, clone it to your computer, make your changes, commit, push and then send a pull request.
 
+<ol>
+<li> Fork [How to fork?](http://www.youtube.com/watch?v=_jGUFpWYm60)</li>
+<li> Clone 
 ```
-git clone 
+git clone https://github.com/"Your User Name"/StarterKit.git
 ```
+</li>
+<li> Open signature.md file in the StarterKit folder and write your name.</li>
+<li>
 ```
 git add signature.md
 ```
+</li>
+<li>
 ```
 git push
 ```
+</li>
+</ol>

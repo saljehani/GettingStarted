@@ -18,18 +18,23 @@ Git is an open source distributed version control system (DVCS) that can signifi
 - All you need to do is fork the repository, clone it to your computer, make your changes, commit, push and then send a pull request.
 
 
-1. Fork [How to fork?](http://www.youtube.com/watch?v=_jGUFpWYm60) 
-2. Clone 
+- Fork [How to fork?](http://www.youtube.com/watch?v=_jGUFpWYm60) 
+- Clone 
 ```
 git clone https://github.com/"Your User Name"/StarterKit.git
 ```
-3. Open signature.md file in the StarterKit folder and write your name.
-4. 
+- Open signature.md file in the StarterKit folder and write your name.
+- Let git know about the changes you made
 ```
 git add signature.md
 ```
-5. 
+- Add short description about what you did.
+```
+git commit -m "signature.md was signed by me"
+```
+- Push your changes to the server
 ```
 git push
 ```
+- Send Pull request
  

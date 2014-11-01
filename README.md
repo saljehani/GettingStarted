@@ -1,7 +1,6 @@
-StarterKit
+Welcome! 
 ==========
-
-Test your git skills here, and put your first signature with us
+If you're not familiar with git, follow the links bellow for a head start. Then test your git skills here, and put your first signature with us.
 
 ##What is Git?
 Git is an open source distributed version control system (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. 

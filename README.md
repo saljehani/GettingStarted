@@ -5,6 +5,9 @@ If you're not familiar with git, follow the links bellow for a head start. Then 
 ##What is Git?
 Git is an open source distributed [version control system](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) (DVCS) that can significantly improve the way you work and collaborate on projects. It allows you to keep a history of the significant changes made to your local files. It can also backup this history through remote hosting services like GitHub. 
 
+ما هو نظام التحكم في الإصدارات، و لماذا يجب أن يهمك؟
+
+إدارة الإصدارات هو نظام يسجل التغييرات على ملف أو مجموعة من الملفات مع مرور الوقت حتى تتمكن من استدعاء إصدارات معينة في وقت لاحق. مثال: إذا كنت تعمل على موقع أو مشروع معين فإنك في بعض الأحيان قد تتعرض إلى مشكلة و تريد عودة ملف أو المشروع إلى وضعه السابق يمكنك ذلك مع نظام التحكم في الإصدارات. ويعتبر الـGit أحد أنظمة التحكم في الإصدارات.
 
 ##Getting started with git:
 - [Install git](http://git-scm.com/downloads)

@@ -10,8 +10,8 @@ Git is an open source distributed [version control system](http://git-scm.com/bo
 ##Getting started with git:
 - [Install git](http://git-scm.com/downloads)
 - [Setup git](https://help.github.com/articles/set-up-git/)
-- [interactive tool to learn git](https://try.github.io)
-- [check out the GitHub Webcasts on Youtube](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
+- [Interactive tool to learn git](https://try.github.io)
+- [Check out the GitHub Webcasts on Youtube](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [Explains git overflow](https://guides.github.com/introduction/flow/index.html)
 
 ##Your First Task:
@@ -38,4 +38,4 @@ git commit -m "signature.md was signed by me"
 git push
 ```
 - Send Pull request
- 
+

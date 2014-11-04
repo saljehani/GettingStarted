@@ -20,8 +20,7 @@ Git is an open source distributed [version control system](http://git-scm.com/bo
 
 
 - Fork [How to fork?](http://www.youtube.com/watch?v=_jGUFpWYm60) 
-- Clone 
-- Pull Request [How to send pull requests](http://www.youtube.com/watch?v=_jGUFpWYm60) 
+- Clone
 ```
 git clone https://github.com/"Your User Name"/StarterKit.git
 ```
@@ -38,4 +37,4 @@ git commit -m "signature.md was signed by me"
 ```
 git push
 ```
-- Send Pull request
+- Send Pull request [How to send pull requests](http://www.youtube.com/watch?v=_jGUFpWYm60) 

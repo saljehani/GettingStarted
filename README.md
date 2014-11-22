@@ -38,3 +38,5 @@ git commit -m "signature.md was signed by me"
 git push
 ```
 - Send Pull request [How to send pull requests](http://www.youtube.com/watch?v=FQsBmnZvBdc) 
+
+Using git on a Mac? Download [GitHub for Mac](https://mac.github.com) - it'll make your life ten times easier! 
